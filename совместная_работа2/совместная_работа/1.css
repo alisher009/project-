@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto'
+}
+
+.conteiner {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+
+.page {
+    display: flex;
+    width: 100%;
+    height: fit-content;
+}
+
+footer {
+    padding: 100px 70px 60px 100px;
+
+
+    background-color: #08263F;
+}
+
+.osn {
+    width: 100%;
+    height: fit-content;
+    background-color: #08263F;
+}
+
+.text {
+    color: #FED08C;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 24px;
+}
+
+.text01 {
+    color: white;
+    font-size: 18px;
+}
+
+.page-01 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 121px;
+}
+
+.page-02 {
+    width: 213px;
+    height: 422px;
+}
+
+.page-02 p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: 15px;
+}
+
+.page-03 {
+    margin-left: 80px;
+    height: 318px;
+    width: 101px;
+
+}
+
+.page-03 p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: 15px;
+}
+
+.page-04 {
+    margin-left: 80px;
+}
+
+.page-04 p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: 15px;
+}
+
+a {
+    color: #B2BCC3;
+    text-decoration: none;
+
+}
+
+.img3 {
+    margin-top: 285px;
+}
+
+.insta {
+    display: flex;
+}
+
+.ins {
+    margin-left: 20px;
+}
+
+.img2 {
+    display: block;
+}
+
+.img3 {
+    display: block;
+}
+
+.page-05 {
+    width: 310px;
+    height: 422px;
+    margin-left: 81px;
+}
+
+.page-05 hr {
+    margin-top: 60px;
+}
+
+.page-05 button {
+    margin-top: 30px;
+    width: 171px;
+    height: 54px;
+    color: white;
+    border-radius: 27px;
+    background-color: #08263F;
+    border-color: white;
+}
+
+.insta {
+    margin-top: 50px;
+}
